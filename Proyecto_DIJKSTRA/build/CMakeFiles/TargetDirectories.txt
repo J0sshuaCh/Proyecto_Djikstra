@@ -1,0 +1,3 @@
+/media/jnchavc/DATA/CPP/Proyecto_DIJKSTRA/build/CMakeFiles/dijkstra_opengl.dir
+/media/jnchavc/DATA/CPP/Proyecto_DIJKSTRA/build/CMakeFiles/edit_cache.dir
+/media/jnchavc/DATA/CPP/Proyecto_DIJKSTRA/build/CMakeFiles/rebuild_cache.dir

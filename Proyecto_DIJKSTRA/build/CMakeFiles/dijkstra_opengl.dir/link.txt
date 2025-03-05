@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/dijkstra_opengl.dir/main.cpp.o CMakeFiles/dijkstra_opengl.dir/src/glad.c.o -o dijkstra_opengl  /usr/lib/x86_64-linux-gnu/libglut.so /usr/lib/x86_64-linux-gnu/libXmu.so /usr/lib/x86_64-linux-gnu/libXi.so /usr/local/lib/libglfw3.a /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl 

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/media/jnchavc/DATA/CPP/Proyecto_DIJKSTRA/build",
+  "command": "/usr/bin/g++  -I/media/jnchavc/DATA/CPP/Proyecto_DIJKSTRA/include -g -std=gnu++17 -o CMakeFiles/dijkstra_opengl.dir/main.cpp.o -c /media/jnchavc/DATA/CPP/Proyecto_DIJKSTRA/main.cpp",
+  "file": "/media/jnchavc/DATA/CPP/Proyecto_DIJKSTRA/main.cpp",
+  "output": "CMakeFiles/dijkstra_opengl.dir/main.cpp.o"
+},
+{
+  "directory": "/media/jnchavc/DATA/CPP/Proyecto_DIJKSTRA/build",
+  "command": "/usr/bin/gcc  -I/media/jnchavc/DATA/CPP/Proyecto_DIJKSTRA/include -g -o CMakeFiles/dijkstra_opengl.dir/src/glad.c.o -c /media/jnchavc/DATA/CPP/Proyecto_DIJKSTRA/src/glad.c",
+  "file": "/media/jnchavc/DATA/CPP/Proyecto_DIJKSTRA/src/glad.c",
+  "output": "CMakeFiles/dijkstra_opengl.dir/src/glad.c.o"
+}
+]
